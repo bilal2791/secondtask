@@ -1,0 +1,1 @@
+<h1>Add Model</h1><h1>sms</h1><form action="sms" method="POST" ><br><br><label>Phone :</label> <input type="text" name="phone" id="phone" value=""  required/><br><label>Status :</label> <input type="text" name="status" id="status" value=""  required/><br><input type="submit" name="submit" id="submit" value="Submit"/></form><br>
